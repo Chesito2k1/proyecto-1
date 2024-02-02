@@ -1,2 +1,2 @@
 # proyecto-1
-primer proyecto de next - Dashborad
+primer proyecto de next-js versión 14 - Dashborad
